@@ -8,5 +8,6 @@ public class Main {
         Triangle t = new Triangle(Couleur.JAUNE, 7, 7, 7);
 
         System.out.println("Ceci est un programme qui gère des formes !!");
+        System.out.println("Ceci est une modification!");
     }
 }
